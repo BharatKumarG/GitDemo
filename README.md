@@ -13,3 +13,6 @@ Local Repositary/Directory - What we added in Stage Direc are after that it shou
 
 Remote Repositary - This is the Final Stage That we want to push local directory into the remote remo that means that means git hub db that could be accessable to everyone based upon the permission we give and the command to commit is "git push origin "master or main eny directory we want and that's it succesfully done using this command succefully pushed into remote repo""
 thaks for reading!!!
+
+
+Last Commit!!!
