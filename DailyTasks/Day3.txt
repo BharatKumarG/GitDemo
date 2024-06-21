@@ -1,4 +1,4 @@
- Hello This is Day3 and this day i am learning sdlc life cycle 
+Hello This is Day3 and this day i am learning sdlc life cycle 
 
 1.Water fall model 
 
