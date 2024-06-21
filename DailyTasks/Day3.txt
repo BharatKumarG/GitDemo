@@ -1,0 +1,20 @@
+ Hello This is Day3 and this day i am learning sdlc life cycle 
+
+1.Water fall model 
+
+actual project in between 2 years to complete
+
+Drawbacks : It has lot of time taking process and also so much time should be wasteed and also money should be wasted project outcome should be 25 to 30% outcome only
+
+2. Agile Model (Sprints)
+
+Agile has divided project into small small parts that should be called as sprints and it should be in the agile model 
+
+In this model we need to do work 1 week for dev and 1 week for operations it has some mis interuptions happen in between dev and ops teams
+
+Drawbacks : Doesnt have any collabration in btw dev and ops team properly
+ When it comes to agile the outcome is nearly 50% to 75% outcomes
+
+3.Devops : By Decreasing above Drawbacks New culture should be introduced that is devops it should do daily work and also do daily test operations that should increase the product quality outcome and it has more product quality should be recived by using this devops it should has more customer satisfaction and also it has more advantages compared to above models.
+
+product quality outcome should be 99.9%
